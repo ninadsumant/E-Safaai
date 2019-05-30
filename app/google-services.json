@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683201572920",
+    "firebase_url": "https://swachhcampus-d5bde.firebaseio.com",
+    "project_id": "swachhcampus-d5bde",
+    "storage_bucket": "swachhcampus-d5bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683201572920:android:66c660e7a7b39d03",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.swachhcampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683201572920-ngjurpjngphqvbl3es495bu89t2e5tuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.swachhcampus",
+            "certificate_hash": "9744e818996899061fd32cb62945aee1e4e13193"
+          }
+        },
+        {
+          "client_id": "683201572920-gqmqjtqsmm341hr6k4tkmkcvtsqgn3ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLoreHqbvSUf-KykzwmBK6gJgKrZbo1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683201572920-gqmqjtqsmm341hr6k4tkmkcvtsqgn3ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
